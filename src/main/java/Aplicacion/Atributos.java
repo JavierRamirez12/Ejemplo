@@ -7,7 +7,7 @@ package Aplicacion;
 
 import javax.swing.JOptionPane;
 
-
+//javier12
 public class Atributos {
 
     //atributos
